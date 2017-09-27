@@ -1,0 +1,7 @@
+//hangman.h
+
+class hangman
+{
+
+
+};
